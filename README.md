@@ -1,6 +1,6 @@
 # Hi there, I'm Madiha Aijaz! 👋
 
-![Header](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/header.png)
+![Header](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 ### I'm a Computer Science Undergrad
 
@@ -24,7 +24,7 @@
 
 ---
 
-![Work in Progress](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/work-in-progress.png)
+![Work in Progress](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/https://miro.medium.com/v2/resize:fit:820/1*y7ZgcnbxdF4aDgh-XaS1-Q.png)
 
 ## 🔭 Current Projects
 
@@ -43,7 +43,7 @@ I'm currently diving deeper into:
 
 ---
 
-![Let's Connect](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/lets-connect.png)
+![Let's Connect](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/https://images.squarespace-cdn.com/content/v1/5d500fee21205f00019b9ec0/1566325847034-WWF44C1BEU9PRWSJHDR5/Let%27s+Connect+.png)
 
 ## 📫 Let's Connect
 
@@ -54,7 +54,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-![Quote](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/quote.png)
+![Quote](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/https://w7.pngwing.com/pngs/502/742/png-transparent-quotation-marks-in-english-computer-icons-quotation-angle-text-logo-thumbnail.png)
 
 “First, solve the problem. Then, write the code.” – John Johnson
 
