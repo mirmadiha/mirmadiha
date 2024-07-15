@@ -5,8 +5,12 @@
 ### I'm a Computer Science Undergrad
 
 - 🌱 I’m currently learning **Data Structures and Algorithms in C++**
-- 🛠️ I work with **C, C++, HTML, CSS**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/madiha-aijaz-b3152928b/) | [Twitter](https://twitter.com/Mir_Madiha_)
+- 🛠️ I work with:
+
+  ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -14,14 +18,13 @@
 
 ## 🔧 Technologies & Tools
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-![Work in Progress](https://raw.githubusercontent.com/mirmadha/mirmadiha/master/work-in-progress.png)
+![Work in Progress](https://raw.githubusercontent.com/mirmadiha/mirmadiha/master/work-in-progress.png)
 
 ## 🔭 Current Projects
 
@@ -44,7 +47,10 @@ I'm currently diving deeper into:
 
 ## 📫 Let's Connect
 
-I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/madiha-aijaz-b3152928b/) or [Twitter](https://twitter.com/Mir_Madiha_).
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me on:
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-aijaz-b3152928b/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mir_Madiha_)
 
 ---
 
