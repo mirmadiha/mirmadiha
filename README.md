@@ -47,7 +47,7 @@ I'm currently diving deeper into:
 I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out to me on:
 
 [<img src="https://www.freeiconspng.com/thumbs/linkedin-logo-png/linkedin-logo-3.png" alt="LinkedIn" width="70" height="70">](https://www.linkedin.com/in/madiha-aijaz-b3152928b/)
-[<img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="Twitter" width="70" height="70">](https://twitter.com/Mir_Madiha)
+[<img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" alt="Twitter" width="70" height="70">](https://twitter.com/Mir_Madiha_)
 
 ---
 
