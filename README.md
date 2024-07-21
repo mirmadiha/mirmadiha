@@ -63,11 +63,8 @@
     <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
+
+
+###
 ---
 
-
-###
-
-<img src="https://raw.githubusercontent.com/mirmadiha/mirmadiha/output/snake.svg" alt="Snake animation" />
-
-###
