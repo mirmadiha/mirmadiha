@@ -62,6 +62,9 @@
   <a href="https://twitter.com/Mir_Madiha_">
     <img src="https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png" width="52" height="40" alt="twitter logo" />
   </a>
+   <a href="https://leetcode.com/u/Madiha_Aijaz/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"  width="52" height="40" alt="leetcode logo"/>
+  </a>
 </div>
 
 
